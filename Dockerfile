@@ -95,6 +95,3 @@ FROM bitnami/airflow:2.2.3-debian-10-r70
 
 # Tags: 2.2.3-debian-10-r69
 FROM bitnami/airflow:2.2.3-debian-10-r69
-
-# Tags: 2.2.3-debian-10-r68
-FROM bitnami/airflow:2.2.3-debian-10-r68
