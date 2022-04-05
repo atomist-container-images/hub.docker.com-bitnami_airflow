@@ -1,12 +1,28 @@
-# Tags: latest, 2.2.4-debian-10-r22, 2.2.4, 2-debian-10, 2
+# Tags: latest, 2.2.5-debian-10-r0, 2.2.5, 2-debian-10, 2
 FROM bitnami/airflow:latest
-FROM bitnami/airflow:2.2.4-debian-10-r22
-FROM bitnami/airflow:2.2.4
+FROM bitnami/airflow:2.2.5-debian-10-r0
+FROM bitnami/airflow:2.2.5
 FROM bitnami/airflow:2-debian-10
 FROM bitnami/airflow:2
 
 # Tags: _
 FROM bitnami/airflow:_
+
+# Tags: 2.2.4-debian-10-r26, 2.2.4
+FROM bitnami/airflow:2.2.4-debian-10-r26
+FROM bitnami/airflow:2.2.4
+
+# Tags: 2.2.4-debian-10-r25
+FROM bitnami/airflow:2.2.4-debian-10-r25
+
+# Tags: 2.2.4-debian-10-r24
+FROM bitnami/airflow:2.2.4-debian-10-r24
+
+# Tags: 2.2.4-debian-10-r23
+FROM bitnami/airflow:2.2.4-debian-10-r23
+
+# Tags: 2.2.4-debian-10-r22
+FROM bitnami/airflow:2.2.4-debian-10-r22
 
 # Tags: 2.2.4-debian-10-r21
 FROM bitnami/airflow:2.2.4-debian-10-r21
@@ -83,15 +99,3 @@ FROM bitnami/airflow:2.2.3-debian-10-r74
 
 # Tags: 2.2.3-debian-10-r73
 FROM bitnami/airflow:2.2.3-debian-10-r73
-
-# Tags: 2.2.3-debian-10-r72
-FROM bitnami/airflow:2.2.3-debian-10-r72
-
-# Tags: 2.2.3-debian-10-r71
-FROM bitnami/airflow:2.2.3-debian-10-r71
-
-# Tags: 2.2.3-debian-10-r70
-FROM bitnami/airflow:2.2.3-debian-10-r70
-
-# Tags: 2.2.3-debian-10-r69
-FROM bitnami/airflow:2.2.3-debian-10-r69
