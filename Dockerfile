@@ -86,6 +86,3 @@ FROM bitnami/airflow:2.2.5-debian-10-r0
 # Tags: 2.2.4-debian-10-r26, 2.2.4
 FROM bitnami/airflow:2.2.4-debian-10-r26
 FROM bitnami/airflow:2.2.4
-
-# Tags: 2.2.4-debian-10-r25
-FROM bitnami/airflow:2.2.4-debian-10-r25
