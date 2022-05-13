@@ -58,31 +58,3 @@ FROM bitnami/airflow:2.2.5-debian-10-r9
 
 # Tags: 2.2.5-debian-10-r8
 FROM bitnami/airflow:2.2.5-debian-10-r8
-
-# Tags: 2.2.5-debian-10-r7
-FROM bitnami/airflow:2.2.5-debian-10-r7
-
-# Tags: 2.2.5-debian-10-r6
-FROM bitnami/airflow:2.2.5-debian-10-r6
-
-# Tags: 2.2.5-debian-10-r5
-FROM bitnami/airflow:2.2.5-debian-10-r5
-
-# Tags: 2.2.5-debian-10-r4
-FROM bitnami/airflow:2.2.5-debian-10-r4
-
-# Tags: 2.2.5-debian-10-r3
-FROM bitnami/airflow:2.2.5-debian-10-r3
-
-# Tags: 2.2.5-debian-10-r2
-FROM bitnami/airflow:2.2.5-debian-10-r2
-
-# Tags: 2.2.5-debian-10-r1
-FROM bitnami/airflow:2.2.5-debian-10-r1
-
-# Tags: 2.2.5-debian-10-r0
-FROM bitnami/airflow:2.2.5-debian-10-r0
-
-# Tags: 2.2.4-debian-10-r26, 2.2.4
-FROM bitnami/airflow:2.2.4-debian-10-r26
-FROM bitnami/airflow:2.2.4
